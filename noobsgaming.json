@@ -29,9 +29,7 @@
           "title1": "<RichColor Color=\"1,0,0,1\">PRIMARY RATES</>",
           "title2": "<RichColor Color=\"1,0,0,1\">SERVER SWITCHES</>",
           "text1": "<TextStyle.Yellow>XP - 3x</>\n<TextStyle.Yellow>HARVEST - 5x</>\n<TextStyle.Yellow>TAMING - 9x</>\n\n<TextStyle.Yellow>CHARACTER POINTS PER LEVEL</>\n<TextStyle.Yellow>HP - 25</>\n<TextStyle.Yellow>STAM - 25</>\n<TextStyle.Yellow>WEIGHT - 25</>\n<TextStyle.Yellow>SPEED - 3%</>\n<TextStyle.Yellow>FORTITUDE - 8</>\n<TextStyle.Yellow>ALL OTHER STATS ARE DEFAULT</>",
-          "alignment": "center",
           "text2": "This text goes into the right box",
-          "alignment": "center",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
       },
