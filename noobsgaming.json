@@ -24,6 +24,15 @@
       },
       {
         "tab2": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">SERVER RULES</>",
+          "title1": "<RichColor Color=\"1,0,0,1\">SERVER RULES</>",
+          "text1": "<TextStyle.Yellow>SOME CURSING IS ALLOWED, BUT PLEASE KEEP IT IN MODERATION</>\n<TextStyle.Yellow>PLEASE DO NOT INSULT/BULLY OTHER PLAYERS. IF THERE IS A CONFLICT PLEASE REACH OUT TO AN ADMIN</>\n<TextStyle.Yellow>PLEASE DO NOT BUILD ON/NEAR HIGH RESOURCE AREAS OR POIS. SOME EXAMPLES WOULD BE METAL MOUNTAINS, VOLCANO, CARNO ISLAND.</>\n<TextStyle.Yellow>PLEASE KEEP YOUR BUILDS TO 1 PRIMARY BASE AND 1 OUTPOST BASE. ADMINS RESERVE THE RIGHT TO ASK YOU TO TEAR DOWN IF YOU BUILD IN TOO MANY PLACES</>\n<TextStyle.Yellow>PLEASE STEALING IS STRICTLY FORBIDDEN. EVEN IF SOMEONE HAS SOMETHING UNLOCKED, DO NOT TREAT THAT AS FREE REIGN TO TAKE ITEMS</>\n<TextStyle.Yellow>PLEASE DO NOT BUILD CLOSE TO AN EXISTING BASE</>",
+          "imageurl": "https://i.imgur.com/f7L2bDD.png"
+        }
+      },
+      {
+        "tab3": {
           "layout": 2,
           "buttontext": "<RichColor Color=\"1,0,0,1\">SERVER RATES</>",
           "title1": "<RichColor Color=\"1,0,0,1\">PRIMARY RATES</>",
@@ -34,7 +43,7 @@
         }
       },
       {
-        "tab3": {
+        "tab4": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">SERVER SHOP</>",
           "title1": "<TextStyle.Red>SERVER SHOP</>",
@@ -43,7 +52,7 @@
         }
       },
       {
-        "tab3": {
+        "tab5": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">MODS</>",
           "title1": "<TextStyle.Red>CURRENT MODS</>",
@@ -52,7 +61,7 @@
         }
       },
       {
-        "tab4": {
+        "tab6": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">STAFF</>",
           "title1": "<TextStyle.Red>CURRENT STAFF</>",
