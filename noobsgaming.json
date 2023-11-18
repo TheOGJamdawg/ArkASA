@@ -8,7 +8,7 @@
         "DisableIconText": false,
         "IconPosition": 0,
         "IconTextColor": 0,
-        "OpenOnStart": true,
+        "OpenOnStart": false,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
       },
@@ -65,20 +65,20 @@
     "links": [
       {
         "link1": {
-          "text": "Link to Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+          "text": "<RichColor Color=\"1,0,0,1\">Link to Discord</>",
+          "url": "discord.gg/3K3476B"
         }
       },
       {
         "link2": {
-          "text": "Link to discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "text": "",
+          "url": ""
         }
       },
       {
         "link3": {
-          "text": "Link to google",
-          "url": "https://google.com"
+          "text": "",
+          "url": ""
         }
       }
     ]
