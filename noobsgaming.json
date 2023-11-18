@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
           "title1": "<RichColor Color=\"1,1,0,1\">Welcome to Noobs Gaming!</>",
-          "text1": "<RichColor Color=\"1,1,0,1\">Welcome to the server! This is a PVE server with slightly boosted rates to remove a lot of the tediousness of Ark while preserving your enjoyment.</>\n\n\nThis server is self-hosted on a dedicated server in Oklahoma, United States on a dedicated 1Gbps fiber connection.\n\n\nIf you have any questions, please feel free to ask in chat or join the discord and ask there.</>",
+          "text1": "<RichColor Color=\"1,1,0,1\">Welcome to the server! This is a PVE server with slightly boosted rates to remove a lot of the tediousness of Ark while preserving your enjoyment.</>\n\n\n<RichColor Color=\"1,1,0,1\">This server is self-hosted on a dedicated server in Oklahoma, United States on a dedicated 1Gbps fiber connection.</>\n\n\n<RichColor Color=\"1,1,0,1\">If you have any questions, please feel free to ask in chat or join the discord and ask there.</>",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
       },
@@ -26,8 +26,8 @@
         "tab2": {
           "layout": 2,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Server Rates</>",
-          "title1": "Primary Rates",
-          "title2": "Server Switches",
+          "title1": "<RichColor Color=\"1,0,0,1\">Primary Rates</>",
+          "title2": "<RichColor Color=\"1,0,0,1\">Server Switches</>",
           "text1": "This text goes into the left box",
           "text2": "This text goes into the right box",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
