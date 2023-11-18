@@ -38,7 +38,7 @@
           "title1": "<RichColor Color=\"1,0,0,1\">PRIMARY RATES</>",
           "title2": "<RichColor Color=\"1,0,0,1\">SERVER SWITCHES</>",
           "text1": "<TextStyle.Yellow>XP - 3x</>\n<TextStyle.Yellow>HARVEST - 5x</>\n<TextStyle.Yellow>TAMING - 9x</>\n\n<TextStyle.Red>CHARACTER POINTS PER LEVEL</>\n\n<TextStyle.Yellow>HP - 25</>\n<TextStyle.Yellow>STAM - 25</>\n<TextStyle.Yellow>WEIGHT - 25</>\n<TextStyle.Yellow>SPEED - 3%</>\n<TextStyle.Yellow>FORTITUDE - 8</>\n<TextStyle.Yellow>ALL OTHER STATS ARE DEFAULT</>\n\n<TextStyle.Red>BREEDING</>\n\n<TextStyle.Yellow>MATING INTERVAL - 0.10x</>\n<TextStyle.Yellow>MATING SPEED - 10x</>\n<TextStyle.Yellow>EGG LAY INTERVAL - 0.10x</>\n<TextStyle.Yellow>EGG HATCH SPEED - 20X</>\n<TextStyle.Yellow>BABY MATURATION SPEED - 10X</>",
-          "text2": "<TextStyle.Yellow>PLAYER MOVEMENT SPEED - ENABLED</>\n<TextStyle.Yellow>FLYER MOVEMENT SPEED - ENABLED</>\n<TextStyle.Yellow>CAVE FLYING - ENABLED</>\n<TextStyle.Yellow>FLYER CARRY - ENABLED</>\n<TextStyle.Yellow>MAX DINO LEVEL - 150</>\n<TextStyle.Yellow>PLATFORM STRUCTURE LIMIT - 2x</>\n\n\n<TextStyle.Red>***REMEMBER - RATES ARE DOUBLED ON THE WEEKENDS!***</>",
+          "text2": "<TextStyle.Yellow>PLAYER MOVEMENT SPEED - ENABLED</>\n<TextStyle.Yellow>FLYER MOVEMENT SPEED - ENABLED</>\n<TextStyle.Yellow>CAVE FLYING - ENABLED</>\n<TextStyle.Yellow>FLYER CARRY - ENABLED</>\n<TextStyle.Yellow>MAX DINO LEVEL - 150</>\n<TextStyle.Yellow>PLATFORM STRUCTURE LIMIT - 2x</>\n\n\n<TextStyle.Yellow>***REMEMBER - RATES ARE DOUBLED ON THE WEEKENDS!***</>",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
       },
@@ -56,7 +56,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">MODS</>",
           "title1": "<TextStyle.Red>CURRENT MODS</>",
-          "text1": "<TextStyle.Yellow>*Automated Ark</>\n<TextStyle.Yellow>*Solo Farm Mod</>\n<TextStyle.Yellow>*Pelayori's Cryo Storage</>\n<TextStyle.Yellow>*Utilities +</>\n<TextStyle.Yellow>*Egg Collector</>\n<TextStyle.Yellow>*Custom Dino Levels (fixes the dino level distrubution)</>\n<TextStyle.Yellow>*Death Inventory Keeper</>\n<TextStyle.Yellow>*Super Spyglass Plus</>\n<TextStyle.Yellow>*Dazza's Stacking Mod</>\n<TextStyle.Yellow>*Better Torches</>\n<TextStyle.Yellow>*ArkNav (minimap)</>\n<TextStyle.Yellow>*Auto Doors</>\n<TextStyle.Yellow>*Resonant's Shop Mod</>\n<TextStyle.Yellow>*Crafting Skill Potion</>\n\n\n<TextStyle.Red>IF YOU HAVE A SUGGESTION FOR ANOTHER MOD PLEASE MAKE A POST IN #SUGGESTIONS CHANNEL IN DISCORD</>",
+          "text1": "<TextStyle.Yellow>*Automated Ark</>\n<TextStyle.Yellow>*Solo Farm Mod</>\n<TextStyle.Yellow>*Pelayori's Cryo Storage</>\n<TextStyle.Yellow>*Utilities +</>\n<TextStyle.Yellow>*Egg Collector</>\n<TextStyle.Yellow>*Custom Dino Levels (fixes the dino level distrubution)</>\n<TextStyle.Yellow>*Death Inventory Keeper</>\n<TextStyle.Yellow>*Super Spyglass Plus</>\n<TextStyle.Yellow>*Dazza's Stacking Mod</>\n<TextStyle.Yellow>*Better Torches</>\n<TextStyle.Yellow>*ArkNav (minimap)</>\n<TextStyle.Yellow>*Auto Doors</>\n<TextStyle.Yellow>*Resonant's Shop Mod</>\n<TextStyle.Yellow>*Crafting Skill Potion</>\n\n\n<TextStyle.Yellow>IF YOU HAVE A SUGGESTION FOR ANOTHER MOD PLEASE MAKE A POST IN #SUGGESTIONS CHANNEL IN DISCORD</>",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
       },
