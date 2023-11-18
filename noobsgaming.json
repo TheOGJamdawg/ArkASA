@@ -64,14 +64,14 @@
     "links": [
       {
         "link1": {
-          "text": "<RichColor Color=\"1,0,0,1\">Link to Discord</>",
+          "text": "<RichColor Color=\"1,0,0,1\">DISCORD</>",
           "url": "discord.gg/3K3476B"
         }
       },
       {
         "link2": {
-          "text": "",
-          "url": ""
+          "text": "CURSE FORGE",
+          "url": "https://www.curseforge.com/ark-survival-ascended/mods/"
         }
       },
       {
