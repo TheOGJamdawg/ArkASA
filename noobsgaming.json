@@ -47,7 +47,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">MODS</>",
           "title1": "<TextStyle.Red>CURRENT MODS</>",
-          "text1": "This text goes into the left box",
+          "text1": "<TextStyle.Yellow>*Automated Ark</>\n<TextStyle.Yellow>*Solo Farm Mod</>\n<TextStyle.Yellow>*Pelayori's Cryo Storage</>\n<TextStyle.Yellow>*Utilities +</>\n<TextStyle.Yellow>*Egg Collector</>\n<TextStyle.Yellow>*Custom Dino Levels (fixes the dino level distrubution)</>\n<TextStyle.Yellow>*Death Inventory Keeper</>\n<TextStyle.Yellow>*Super Spyglass Plus</>\n<TextStyle.Yellow>*Dazza's Stacking Mod</>\n*Better Torches</>\n<TextStyle.Yellow>*ArkNav (minimap)</>\n<TextStyle.Yellow>*Auto Doors</>\n<TextStyle.Yellow>*Resonant's Shop Mod</>\n<TextStyle.Yellow>*Crafting Skill Potion</>",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
       },
