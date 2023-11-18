@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">WELCOME</>",
           "title1": "<RichColor Color=\"1,0,0,1\">WELCOME TO NOOBS GAMING!</>",
-          "text1": "<TextStyle.Yellow>Welcome to the server! This is a PVE server with slightly boosted rates to remove a lot of the tediousness of Ark while preserving your enjoyment.</>\n\n\n<TextStyle.Yellow>This server is self-hosted on a dedicated server in Oklahoma, United States on a dedicated 1Gbps fiber connection.</>\n\n\n<TextStyle.Yellow>If you have any questions, please feel free to ask in chat or join the discord and ask there.</>",
+          "text1": "<TextStyle.Yellow>Welcome to the server! This is a PVE server with slightly boosted rates to remove a lot of the tediousness of Ark while preserving your enjoyment.</>\n\n\n<TextStyle.Yellow>This server is self-hosted on a dedicated server in Oklahoma, United States on a dedicated 1Gbps fiber connection.</>\n\n\n<TextStyle.Yellow>If you have any questions, please feel free to ask in chat or join the discord and ask there.</>\n\n<TextStyle.Yellow>*****RATES ARE DOUBLED ON THE WEEKENDS*****</>",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
       },
@@ -28,7 +28,7 @@
           "buttontext": "<RichColor Color=\"1,0,0,1\">SERVER RATES</>",
           "title1": "<RichColor Color=\"1,0,0,1\">PRIMARY RATES</>",
           "title2": "<RichColor Color=\"1,0,0,1\">SERVER SWITCHES</>",
-          "text1": "<TextStyle.Yellow>XP - 3x</>\n<TextStyle.Yellow>HARVEST - 5x</>\n<TextStyle.Yellow>TAMING - 9x</>\n\n<TextStyle.Yellow>CHARACTER POINTS PER LEVEL</>\n<TextStyle.Yellow>HP - 25</>\n<TextStyle.Yellow>STAM - 25</>\n<TextStyle.Yellow>WEIGHT - 25</>\n<TextStyle.Yellow>SPEED - 3%</>\n<TextStyle.Yellow>FORTITUDE - 8</>\n<TextStyle.Yellow>ALL OTHER STATS ARE DEFAULT</>",
+          "text1": "<TextStyle.Yellow>XP - 3x</>\n<TextStyle.Yellow>HARVEST - 5x</>\n<TextStyle.Yellow>TAMING - 9x</>\n\n<TextStyle.Red>CHARACTER POINTS PER LEVEL</>\n\n<TextStyle.Yellow>HP - 25</>\n<TextStyle.Yellow>STAM - 25</>\n<TextStyle.Yellow>WEIGHT - 25</>\n<TextStyle.Yellow>SPEED - 3%</>\n<TextStyle.Yellow>FORTITUDE - 8</>\n<TextStyle.Yellow>ALL OTHER STATS ARE DEFAULT</>\n\n<TextStyle.Red>BREEDING</>\n\n<TextStyle.Yellow>MATING INTERVAL - 0.10x</>\n<TextStyle.Yellow>MATING SPEED - 10x</>\nEGG LAY INTERVAL - 0.10x</>\n<TextStyle.Yellow>EGG HATCH SPEED - 20X</>\n<TextStyle.Yellow>BABY MATURATION SPEED - 10X</>",
           "text2": "This text goes into the right box",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
