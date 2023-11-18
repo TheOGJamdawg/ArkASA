@@ -38,7 +38,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">SERVER SHOP</>",
           "title1": "<TextStyle.Red>SERVER SHOP</>",
-          "text1": "<TextStyle.Yellow>The server shop is accessed by pressing F2. You are able to purchase items/dinos/packages with the amount of points stated on the item.</>\n<TextStyle.Yellow>10 points are awarded every 5 minutes of playtime.</>\n<TextStyle.Yellow>You must be online in order to accrue points.</>\n<TextStyle.Yellow>Items will be added/modified/removed as needed to properly accommodate the server.</>\n<TextStyle.Yellow>If you have a suggestion for an item to be added you can suggest on the discord under the #suggestions channel.</>",
+          "text1": "<TextStyle.Yellow>*The server shop is accessed by pressing F2. You are able to purchase items/dinos/packages with the amount of points stated on the item.</>\n\n<TextStyle.Yellow>*10 points are awarded every 5 minutes of playtime.</>\n\n<TextStyle.Yellow>*You must be online in order to accrue points.</>\n\n<TextStyle.Yellow>*Items will be added/modified/removed as needed to properly accommodate the server.</>\n\n<TextStyle.Yellow>*If you have a suggestion for an item to be added you can suggest on the discord under the #suggestions channel.</>",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
       },
