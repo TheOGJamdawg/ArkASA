@@ -56,7 +56,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">STAFF</>",
           "title1": "<TextStyle.Red>CURRENT STAFF</>",
-          "text1": "<TextStyle.Yellow>This text goes into the top left box</>",
+          "text1": "<TextStyle.Red>PRIMARY ADMIN</>\n\n<TextStyle.Yellow>JAMDAWG</>\n\n<TextStyle.Red>SECONDARY ADMIN</>\n\n<TextStyle.Yellow>VEGASDUCK</>\n<TextStyle.Yellow>TIDYTROUBLE</>",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
       }
