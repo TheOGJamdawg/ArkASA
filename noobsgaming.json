@@ -36,8 +36,17 @@
       {
         "tab3": {
           "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Server Shop</>",
+          "title1": "<TextStyle.Red>SERVER SHOP</>",
+          "text1": "This text goes into the left box",
+          "imageurl": "https://i.imgur.com/f7L2bDD.png"
+        }
+      },
+      {
+        "tab3": {
+          "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Mods</>",
-          "title1": "<TextStyle.Yellow>CURRENT MODS</>",
+          "title1": "<TextStyle.Red>CURRENT MODS</>",
           "text1": "This text goes into the left box",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
