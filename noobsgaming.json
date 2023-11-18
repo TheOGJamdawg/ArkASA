@@ -28,7 +28,7 @@
           "buttontext": "<RichColor Color=\"1,0,0,1\">Server Rates</>",
           "title1": "<RichColor Color=\"1,0,0,1\">Primary Rates</>",
           "title2": "<RichColor Color=\"1,0,0,1\">Server Switches</>",
-          "text1": "This text goes into the left box",
+          "text1": "<TextStyle.Yellow>XP - 3x</>\n<TextStyle.Yellow>Harvest - 5x</>",
           "text2": "This text goes into the right box",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
