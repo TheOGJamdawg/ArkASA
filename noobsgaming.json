@@ -37,7 +37,7 @@
         "tab3": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Mods</>",
-          "title1": "Left title",
+          "title1": "<TextStyle.Yellow>CURRENT MODS</>",
           "text1": "This text goes into the left box",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
@@ -46,7 +46,7 @@
         "tab4": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Staff</>",
-          "title1": "Top left title",
+          "title1": "<TextStyle.Yellow>CURRENT STAFF</>",
           "text1": "<TextStyle.Orange>This text goes into the top left box</>",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
