@@ -16,8 +16,8 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
-          "title1": "<RichColor Color=\"1,1,0,1\">Welcome to Noobs Gaming!</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">WELCOME</>",
+          "title1": "<RichColor Color=\"1,0,0,1\">WELCOME TO NOOBS GAMING!</>",
           "text1": "<TextStyle.Yellow>Welcome to the server! This is a PVE server with slightly boosted rates to remove a lot of the tediousness of Ark while preserving your enjoyment.</>\n\n\n<TextStyle.Yellow>This server is self-hosted on a dedicated server in Oklahoma, United States on a dedicated 1Gbps fiber connection.</>\n\n\n<TextStyle.Yellow>If you have any questions, please feel free to ask in chat or join the discord and ask there.</>",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
@@ -25,9 +25,9 @@
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Server Rates</>",
-          "title1": "<RichColor Color=\"1,0,0,1\">Primary Rates</>",
-          "title2": "<RichColor Color=\"1,0,0,1\">Server Switches</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">SERVER RATES</>",
+          "title1": "<RichColor Color=\"1,0,0,1\">PRIMARY RATES</>",
+          "title2": "<RichColor Color=\"1,0,0,1\">SERVER SWITCHES</>",
           "text1": "<TextStyle.Yellow>XP - 3x</>\n<TextStyle.Yellow>Harvest - 5x</>",
           "text2": "This text goes into the right box",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
@@ -36,7 +36,7 @@
       {
         "tab3": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Server Shop</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">SERVER SHOP</>",
           "title1": "<TextStyle.Red>SERVER SHOP</>",
           "text1": "This text goes into the left box",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
@@ -45,7 +45,7 @@
       {
         "tab3": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Mods</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">MODS</>",
           "title1": "<TextStyle.Red>CURRENT MODS</>",
           "text1": "This text goes into the left box",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
@@ -54,9 +54,9 @@
       {
         "tab4": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Staff</>",
-          "title1": "<TextStyle.Yellow>CURRENT STAFF</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">STAFF</>",
+          "title1": "<TextStyle.Red>CURRENT STAFF</>",
+          "text1": "<TextStyle.Yellow>This text goes into the top left box</>",
           "imageurl": "https://i.imgur.com/f7L2bDD.png"
         }
       }
